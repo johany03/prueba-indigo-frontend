@@ -26,9 +26,7 @@ La aplicación estará disponible en: **http://localhost:4200**
 
 | Rol | Email | Contraseña |
 |-----|-------|------------|
-| Admin | admin@sistema.com | admin123 |
-| Gerente | gerente@sistema.com | gerente123 |
-| Cajero | cajero@sistema.com | cajero123 |
+| Admin | admin | Admin123* |
 
 ## Funcionalidades
 
